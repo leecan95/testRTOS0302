@@ -1,0 +1,13 @@
+sps30.c:55:9:sps30_probe	40	static
+sps30.c:61:9:sps30_read_firmware_version	24	static
+sps30.c:72:9:sps30_get_serial	64	static
+sps30.c:96:9:sps30_start_measurement	16	static
+sps30.c:108:9:sps30_stop_measurement	16	static
+sps30.c:115:9:sps30_read_data_ready	16	static
+sps30.c:120:9:sps30_read_measurement	72	static
+sps30.c:170:9:sps30_get_fan_auto_cleaning_interval	40	static
+sps30.c:189:9:sps30_set_fan_auto_cleaning_interval	24	static
+sps30.c:201:9:sps30_get_fan_auto_cleaning_interval_days	24	static
+sps30.c:213:9:sps30_set_fan_auto_cleaning_interval_days	16	static
+sps30.c:218:9:sps30_start_manual_fan_cleaning	16	static
+sps30.c:230:9:sps30_reset	8	static
